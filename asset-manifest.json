@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/malmoff/filmdatabas.git/static/css/main.e8366d66.css",
+    "main.js": "/malmoff/filmdatabas.git/static/js/main.5b723a09.js",
+    "static/js/787.6f8e3ad9.chunk.js": "/malmoff/filmdatabas.git/static/js/787.6f8e3ad9.chunk.js",
+    "index.html": "/malmoff/filmdatabas.git/index.html",
+    "main.e8366d66.css.map": "/malmoff/filmdatabas.git/static/css/main.e8366d66.css.map",
+    "main.5b723a09.js.map": "/malmoff/filmdatabas.git/static/js/main.5b723a09.js.map",
+    "787.6f8e3ad9.chunk.js.map": "/malmoff/filmdatabas.git/static/js/787.6f8e3ad9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8366d66.css",
+    "static/js/main.5b723a09.js"
+  ]
+}
